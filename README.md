@@ -1,5 +1,14 @@
 ### Hi there 👋 Myself Dhruv Rohatgi
 
+
+
+
+
+![Uploading Dhruv rohatgi.gif…]()
+
+
+
+
 <!--
 **Courage003/Courage003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 Hello! I am Dhruv Rohatgi, currently pursuing B.Tech in Computer Science & Engineering from NIT Agartala. Currently I am learning Competitive programming and Web development. Started working as content creator through my channel **Mowgli Vloggers** .
