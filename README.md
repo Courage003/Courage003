@@ -20,7 +20,6 @@ Hello! I am Dhruv Rohatgi, currently pursuing B.Tech in Computer Science & Engin
 - 👯 I’m looking to collaborate on Open source events such as SSOC'2023
 
 
-[![Courage003's GitHub | Languages Over Time](https://stats.quine.sh/Courage003/languages-over-time?theme=light)](https://quine.sh)
 
 
  
