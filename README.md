@@ -16,7 +16,7 @@ Hello! I am Dhruv Rohatgi, currently pursuing B.Tech in Computer Science & Engin
 
 
 # 💫 About Me:
-🔭 I’m currently working on Mowgli Vloggers Website.<br>🌱 I’m currently learning to add responsiveness to static websites along with the Backend part.<br>👯 I’m looking to collaborate on Open source events such as SSOC'2023
+🔭 Hello! I'm Dhruv Rohatgi, a final-year B.Tech student in Computer Science & Engineering at NIT Agartala. My journey in tech has been a blend of deepening my understanding of Data Structures and Algorithms (DSA), diving into the core fundamentals of Computer Science, and exploring the dynamic world of Web Development.<br>👯 Beyond academics, I've channeled my passion for sharing knowledge and experiences into content creation through my YouTube channel, Mowgli Vloggers. This platform has allowed me to connect with a wider audience, sharing insights, tutorials, and vlogs that resonate with tech enthusiasts and learners alike.
 
 
 ## 🌐 Socials:
